@@ -4,7 +4,7 @@ Playable prototypes of Omega Tactical (WIP)
 ## Controls
 ### P1
 W - Up\
-S - Down\ 
+S - Down\
 A - Left\
 D - Right\
 Q - Rotate counter-clockwise\
